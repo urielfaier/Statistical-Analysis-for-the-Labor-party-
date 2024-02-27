@@ -1,1 +1,1 @@
-# Statistical-Analysis-Labor-party-
+# Statistical-Analysis-Labor-party
