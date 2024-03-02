@@ -2,8 +2,7 @@
 
 ## Files
 - **README.md**: You're reading it! An overview of the repository.
-- **notebook with code**: Jupyter Notebooks containing code and visualizations with short explanations.
-- **notebooks without code**: Jupyter Notebooks containing just visualizations with short explanations.
+- **notebook**: Jupyter Notebooks containing code and visualizations with short explanations.
 
 ## Background
 
